@@ -33,13 +33,11 @@ Follow these steps to set up and install the project on your local machine:
    ```bash
    git clone https://github.com/seifehab33/Shopping-Cart.git
    cd Shopping-Cart
-   
 2. **Install Dependencies**
    npm install
-   # or
+   or
    yarn install
-   
 4. **Run the Development Server**
    npm run dev
-   # or
+   or
    yarn dev
