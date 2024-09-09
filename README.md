@@ -35,9 +35,13 @@ Follow these steps to set up and install the project on your local machine:
    cd Shopping-Cart
 2. **Install Dependencies**
    npm install
+   
    or
+   
    yarn install
 4. **Run the Development Server**
    npm run dev
+   
    or
+   
    yarn dev
